@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DpadView">
+        <attr name="dividerWidth" format="dimension"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="topSectionColor" format="reference|color"/>
+        <attr name="rightSectionColor" format="reference|color"/>
+        <attr name="bottomSectionColor" format="reference|color"/>
+        <attr name="leftSectionColor" format="reference|color"/>
+        <attr name="topDrawable" format="integer"/>
+        <attr name="bottomDrawable" format="integer"/>
+        <attr name="leftDrawable" format="integer"/>
+        <attr name="rightDrawable" format="integer"/>
+        <attr name="drawablesColor" format="reference|color"/>
+        <attr name="sectionColor" format="reference|color"/>
+        <attr name="innerCirclePercentage" format="float"/>
+        <attr name="innerCircleColor" format="reference|color"/>
+    </declare-styleable>
+</resources>
